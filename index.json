@@ -1,10 +1,14 @@
 {
+  "name" : "Binny's Emotes",
   "path" : "emotes",
   "emotes" : [
+    {
+      "type" : ".gif",
+      "name" : "runningman"
+    },
     {
       "name" : "HanekawaCri",
       "type" : ".gif"
     }
-  ],
-  "name" : "Binny's Emotes"
+  ]
 }
