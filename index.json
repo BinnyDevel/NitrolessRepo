@@ -1,10 +1,7 @@
 {
   "name" : "Binny's Emotes",
-  "path" : "emotes",
   "emotes" : [
-    {
-      "name" : "Hanekawa cri",
-      "type" : ".gif"
-    }
-  ]
+
+  ],
+  "path" : "emotes"
 }
