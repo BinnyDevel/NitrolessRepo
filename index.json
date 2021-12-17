@@ -1,164 +1,15 @@
 {
-  "path" : "emotes",
   "emotes" : [
     {
-      "type" : ".png",
-      "name" : "peepoYes"
-    },
-    {
-      "type" : ".png",
-      "name" : "Nadepray"
-    },
-    {
-      "name" : "woeistroll",
-      "type" : ".png"
-    },
-    {
-      "name" : "frpensive",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadeoka",
-      "type" : ".png"
-    },
-    {
-      "name" : "woeis",
+      "name" : "Nadebruh",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "NadeBlush"
+      "name" : "lmao3D"
     },
     {
-      "type" : ".png",
-      "name" : "Pircay"
-    },
-    {
-      "name" : "tr",
-      "type" : ".png"
-    },
-    {
-      "name" : "NadeAnnoyed",
-      "type" : ".png"
-    },
-    {
-      "name" : "NadeSip",
-      "type" : ".png"
-    },
-    {
-      "name" : "stfufurry",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "woeuhh"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadeListen"
-    },
-    {
-      "name" : "Spinnyko",
-      "type" : ".gif"
-    },
-    {
-      "name" : "Nadepat",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "HanekawaCri"
-    },
-    {
-      "name" : "Nadeheart",
-      "type" : ".png"
-    },
-    {
-      "name" : "NadeRelax",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadeAnger"
-    },
-    {
-      "type" : ".png",
-      "name" : "elutrash"
-    },
-    {
-      "name" : "nadekoshock",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "Concernade"
-    },
-    {
-      "name" : "peepoPat",
-      "type" : ".png"
-    },
-    {
-      "name" : "stfubinny",
-      "type" : ".png"
-    },
-    {
-      "name" : "stfubingner",
-      "type" : ".png"
-    },
-    {
-      "name" : "troll",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "thonk"
-    },
-    {
-      "name" : "Nadebonk",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "Nadelul"
-    },
-    {
-      "type" : ".gif",
-      "name" : "NadeClap"
-    },
-    {
-      "name" : "peepoSmile",
-      "type" : ".png"
-    },
-    {
-      "name" : "reduhh",
-      "type" : ".png"
-    },
-    {
-      "name" : "thumbs_up",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadembarrassed",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadekek",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "shut"
-    },
-    {
-      "type" : ".gif",
-      "name" : "nadesighs"
-    },
-    {
-      "type" : ".png",
-      "name" : "thishowitis"
-    },
-    {
-      "name" : "thumbsUp",
+      "name" : "NO",
       "type" : ".png"
     },
     {
@@ -167,154 +18,26 @@
     },
     {
       "type" : ".png",
-      "name" : "Sadeko"
+      "name" : "tro"
     },
     {
-      "name" : "fr",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadeWink"
-    },
-    {
-      "type" : ".png",
-      "name" : "ok"
-    },
-    {
-      "type" : ".png",
-      "name" : "readtherules"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadeHappy"
-    },
-    {
-      "type" : ".png",
-      "name" : "kekw"
-    },
-    {
-      "name" : "runningman",
-      "type" : ".gif"
-    },
-    {
-      "name" : "NadeBleh",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadeSad"
-    },
-    {
-      "name" : "woeisthanos",
+      "name" : "maybe",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "checkm8"
+      "name" : "Nadecool"
     },
     {
-      "name" : "prayage",
+      "name" : "troll",
       "type" : ".png"
     },
     {
-      "type" : ".gif",
-      "name" : "maybe"
-    },
-    {
-      "name" : "Nadehug",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "Nadelikethis"
-    },
-    {
-      "type" : ".png",
-      "name" : "uhhpoint"
-    },
-    {
-      "name" : "pingsock",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadekoops",
-      "type" : ".png"
-    },
-    {
-      "name" : "pls",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "Nadebruh"
-    },
-    {
-      "type" : ".png",
-      "name" : "fruhh"
-    },
-    {
-      "name" : "Nadewoke",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadecool",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nodeko",
-      "type" : ".png"
-    },
-    {
-      "name" : "NadeHmpf",
+      "name" : "NadeClap",
       "type" : ".gif"
     },
     {
-      "type" : ".png",
-      "name" : "Naderp"
-    },
-    {
-      "type" : ".gif",
-      "name" : "trollformation"
-    },
-    {
-      "name" : "cope",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "delet"
-    },
-    {
-      "name" : "lul",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "hypercatgirl"
-    },
-    {
-      "name" : "tro",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadePout"
-    },
-    {
-      "name" : "Yadeko",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadeshootmyself",
-      "type" : ".png"
-    },
-    {
-      "name" : "frstonks",
-      "type" : ".png"
-    },
-    {
-      "name" : "Nadead",
+      "name" : "stfufurry",
       "type" : ".png"
     },
     {
@@ -323,83 +46,103 @@
     },
     {
       "type" : ".png",
-      "name" : "scomoji"
-    },
-    {
-      "type" : ".png",
-      "name" : "NadEgao"
-    },
-    {
-      "name" : "Nadeokb",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "uhh"
-    },
-    {
-      "name" : "NO",
-      "type" : ".png"
-    },
-    {
-      "name" : "NadePoint",
-      "type" : ".png"
-    },
-    {
-      "name" : "lmao3D",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "copeharder"
-    },
-    {
-      "type" : ".png",
-      "name" : "peepoPing"
-    },
-    {
-      "name" : "NadeLaugh",
-      "type" : ".gif"
-    },
-    {
-      "name" : "trol",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "androidskull"
-    },
-    {
-      "name" : "Nadepeek",
-      "type" : ".gif"
-    },
-    {
-      "name" : "bruh",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "trolldisappointed"
-    },
-    {
-      "type" : ".png",
-      "name" : "nfr"
-    },
-    {
-      "name" : "NadeHuh",
-      "type" : ".png"
+      "name" : "TrollFront"
     },
     {
       "type" : ".png",
       "name" : "Nadeshy"
     },
     {
-      "name" : "pwn20wnd",
+      "type" : ".png",
+      "name" : "Nadeshootmyself"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeRelax"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeSip"
+    },
+    {
+      "type" : ".gif",
+      "name" : "NadeLaugh"
+    },
+    {
+      "name" : "Nadepray",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "frcoal"
+      "name" : "Nadeheart"
+    },
+    {
+      "name" : "thumbsUp",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadelul"
+    },
+    {
+      "type" : ".png",
+      "name" : "Happyko"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeWink"
+    },
+    {
+      "type" : ".png",
+      "name" : "fruhh"
+    },
+    {
+      "name" : "woeuhh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "hypercatgirl"
+    },
+    {
+      "name" : "NadeAnnoyed",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeBleh"
+    },
+    {
+      "type" : ".png",
+      "name" : "ok"
+    },
+    {
+      "name" : "lul",
+      "type" : ".png"
+    },
+    {
+      "name" : "trolldisappointed",
+      "type" : ".png"
+    },
+    {
+      "name" : "Nodeko",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadeshootyou"
+    },
+    {
+      "type" : ".png",
+      "name" : "checkm8"
+    },
+    {
+      "type" : ".png",
+      "name" : "fujiwara1"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeSad"
     },
     {
       "name" : "sus",
@@ -407,24 +150,285 @@
     },
     {
       "type" : ".png",
-      "name" : "Happyko"
+      "name" : "Yadeko"
     },
     {
-      "name" : "Nadeshootyou",
+      "name" : "Nadehug",
       "type" : ".png"
     },
     {
-      "name" : "Cooldeko",
+      "name" : "pwn20wnd",
       "type" : ".png"
     },
     {
-      "name" : "TrollFront",
+      "type" : ".png",
+      "name" : "thishowitis"
+    },
+    {
+      "type" : ".png",
+      "name" : "androidskull"
+    },
+    {
+      "name" : "thumbs_up",
+      "type" : ".png"
+    },
+    {
+      "name" : "woeisthanos",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "elutrash"
+    },
+    {
+      "name" : "pls",
+      "type" : ".png"
+    },
+    {
+      "name" : "NadeHuh",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "Cooldeko"
+    },
+    {
+      "name" : "trollformation",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "trol"
+    },
+    {
+      "type" : ".png",
+      "name" : "frcoal"
+    },
+    {
+      "type" : ".png",
+      "name" : "woeis"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadead"
+    },
+    {
+      "name" : "HanekawaCri",
+      "type" : ".gif"
+    },
+    {
+      "name" : "frpensive",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "uhhpoint"
+    },
+    {
+      "name" : "thonk",
+      "type" : ".png"
+    },
+    {
+      "name" : "Sadeko",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "tr"
+    },
+    {
+      "name" : "nfr",
       "type" : ".png"
     },
     {
       "name" : "NadeSad2",
       "type" : ".png"
+    },
+    {
+      "name" : "peepoPat",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadekoops"
+    },
+    {
+      "name" : "Nadeokb",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "bruh"
+    },
+    {
+      "name" : "stfubingner",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "Nadepat"
+    },
+    {
+      "name" : "Pircay",
+      "type" : ".png"
+    },
+    {
+      "name" : "scomoji",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadEgao"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeHappy"
+    },
+    {
+      "name" : "Nadelikethis",
+      "type" : ".png"
+    },
+    {
+      "name" : "NadeBlush",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "pingsock"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeListen"
+    },
+    {
+      "name" : "delet",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "woeistroll"
+    },
+    {
+      "name" : "NadePoint",
+      "type" : ".png"
+    },
+    {
+      "name" : "peepoPing",
+      "type" : ".png"
+    },
+    {
+      "name" : "frstonks",
+      "type" : ".png"
+    },
+    {
+      "name" : "Nadekek",
+      "type" : ".png"
+    },
+    {
+      "name" : "peepoYes",
+      "type" : ".png"
+    },
+    {
+      "name" : "copeharder",
+      "type" : ".png"
+    },
+    {
+      "name" : "kekw",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "shut"
+    },
+    {
+      "name" : "Spinnyko",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadewoke"
+    },
+    {
+      "type" : ".gif",
+      "name" : "nadesighs"
+    },
+    {
+      "type" : ".gif",
+      "name" : "NadeHmpf"
+    },
+    {
+      "type" : ".png",
+      "name" : "cope"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadebonk"
+    },
+    {
+      "type" : ".png",
+      "name" : "reduhh"
+    },
+    {
+      "name" : "fr",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "NadeAnger"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadeoka"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nadembarrassed"
+    },
+    {
+      "type" : ".png",
+      "name" : "stfubinny"
+    },
+    {
+      "name" : "peepoSmile",
+      "type" : ".png"
+    },
+    {
+      "name" : "uhh",
+      "type" : ".png"
+    },
+    {
+      "name" : "Concernade",
+      "type" : ".png"
+    },
+    {
+      "name" : "Nadepeek",
+      "type" : ".gif"
+    },
+    {
+      "name" : "NadePout",
+      "type" : ".png"
+    },
+    {
+      "name" : "Naderp",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "nadekoshock"
+    },
+    {
+      "name" : "readtherules",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "prayage"
+    },
+    {
+      "name" : "runningman",
+      "type" : ".gif"
     }
   ],
-  "name" : "Binny's Emotes"
+  "name" : "Binny's Emotes",
+  "path" : "emotes"
 }
